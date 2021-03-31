@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "rideType": "Bike",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51WRaOtap-L._SX355_.jpg"
+}, {
+    "id": 2,
+    "rideType": "Car",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbsOD0C1lpLdoCeSY1knqMAJHP-IEMENZIw&usqp=CAU"
+
+}, {
+    "id": 3,
+    "rideType": "Bus",
+    "imageURL": "https://en.yutong.com/res/images/product/product/20190620/2019FTN5UCtBNP.jpg"
+
+}, {
+    "id": 4,
+    "rideType": "Train",
+    "imageURL": "https://www.russiantrains.com/sites/russiantrains.com/files/inline-images/High_speed_train_315x210.jpg"
+
+}]
