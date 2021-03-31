@@ -13,7 +13,7 @@ import Login from './components/Login/Login';
 import PrivateRoute from "./components/PrivateRoute/PrivateRoute";
 import Destination from './components/Destination/Destination';
 import SearchResult from './components/SearchResult/SearchResult';
-import googleMapReact from "google-map-react";
+// import googleMapReact from "google-map-react";
 import NotFound from './components/NotFound/NotFound';
 
 export const UserContext = createContext();
