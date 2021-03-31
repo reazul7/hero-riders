@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { createContext, useState } from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
